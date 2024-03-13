@@ -10,12 +10,12 @@ body{
 section{
     background-color: rgb(253, 241, 255);
     float: right;
-    width: 890px;
+    width: 900px;
     height: 1300px;
 }
 aside{
     background-color: rgb(209, 131, 223);
-    width: 370px;
+    width: 380px;
     float: left;
     height: 1300px;
 
