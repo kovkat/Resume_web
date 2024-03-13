@@ -2,7 +2,6 @@
 body{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     margin: 5;
-
 }
 #main_p{
     flex-wrap: wrap;
