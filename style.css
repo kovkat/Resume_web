@@ -1,6 +1,8 @@
 
 body{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 5;
+
 }
 #main{
     width: 100%;
@@ -9,12 +11,12 @@ body{
 section{
     background-color: rgb(253, 241, 255);
     float: right;
-    width: 73%;
+    width: 850px;
     height: 1300px;
 }
 aside{
     background-color: rgb(209, 131, 223);
-    width: 25%;
+    width: 370px;
     float: left;
     height: 1300px;
 
